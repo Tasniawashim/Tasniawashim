@@ -11,6 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...c++
 - 💬 Ask me about ...C++
 - 📫 How to reach me: ...tasniabdk3@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns:she
