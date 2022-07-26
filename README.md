@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi there i am Bidhu
+- 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
-<!--
-**Tasniawashim/Tasniawashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 I’m looking to collaborate on **projects such as related to c,c++,python**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **C,C++**
 
-- 🔭 I’m currently working on ...c++
-- 🌱 I’m currently learning ...c++
-- 👯 I’m looking to collaborate on ...c++
-- 🤔 I’m looking for help with ...c++
-- 💬 Ask me about ...C++
-- 📫 How to reach me: ...tasniabdk3@gmail.com
-- 😄 Pronouns:she
+- 📫 How to reach me via email:**tasniabdk3@gmail.com**
+
+- ⚡ Fun fact **I think i am funny and more reliable person.Guess i can make a smile for you.**
